@@ -1,0 +1,16 @@
+
+# Annoying files
+.idea/
+.DS_Store
+
+# Python files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django files
+*.log
+*.pyc
+db.sqlite3
+__pycache__/
+
+
